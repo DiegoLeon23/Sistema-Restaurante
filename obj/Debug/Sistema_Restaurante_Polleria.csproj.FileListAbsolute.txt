@@ -1,0 +1,10 @@
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\bin\Debug\Sistema_Restaurante_Polleria.exe.config
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\bin\Debug\Sistema_Restaurante_Polleria.exe
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\bin\Debug\Sistema_Restaurante_Polleria.pdb
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.csprojAssemblyReference.cache
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.Conexion.CONEXION_MANUAL.resources
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.Properties.Resources.resources
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.csproj.GenerateResource.cache
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.csproj.CoreCompileInputs.cache
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.exe
+C:\Users\Diego León\Desktop\Sistema Restaurante\Sistema_Restaurante_Polleria\Sistema_Restaurante_Polleria\obj\Debug\Sistema_Restaurante_Polleria.pdb
